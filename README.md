@@ -1,6 +1,6 @@
 
 # Shetty Ganeshprasad 👨‍💻
-[![Twitter Badge](https://img.shields.io/badge/-@_G4neshshetty_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_G4neshshetty_)](https://twitter.com/_G4neshshetty_)[![Gmail Badge](https://img.shields.io/badge/-shettyganeshprasad1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shettyganeshprasad1998@gmail.com)](mailto:shettyganeshprasad1998@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-shettyganeshprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shettyganeshprasad/)](https://www.linkedin.com/in/shettyganeshprasad/) 
+[![Twitter Badge](https://img.shields.io/badge/-@_G4neshshetty_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_G4neshshetty_)](https://twitter.com/_G4neshshetty_) [![Linkedin Badge](https://img.shields.io/badge/-shettyganeshprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shettyganeshprasad/)](https://www.linkedin.com/in/shettyganeshprasad/) 
 [![Gmail Badge](https://img.shields.io/badge/-shettyganeshprasad1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shettyganeshprasad1998@gmail.com)](mailto:shettyganeshprasad1998@gmail.com)
 
 ---
