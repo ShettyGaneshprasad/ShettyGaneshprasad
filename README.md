@@ -20,7 +20,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
 - ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing #CampusOps and anything you like
+- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
 ---
 <!--
 **ganeshshetty98/ganeshshetty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
