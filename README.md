@@ -5,7 +5,7 @@
 
 ---
 ## Hi there 👋,           
-I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE.  I am a tech enthusiasts.  
+I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer/ Flutter developer / tech enthusiast.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
@@ -20,7 +20,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE.  I
 - 💬 Ask me about anything and everything! 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
 - ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
+- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing #CampusOps and anything you like
 ---
 <!--
 **ganeshshetty98/ganeshshetty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
