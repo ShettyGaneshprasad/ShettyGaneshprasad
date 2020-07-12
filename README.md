@@ -8,14 +8,14 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE.  I
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on diffrent client's Flutter project.
+- 🌱 I’m currently learning Flutter.
+<!-- 👯 I’m looking to collaborate on ...-->
+<!-- 🤔 I’m looking for help with ...-->
+- 💬 Ask me about Web & Flutter Development 
+<!-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 - 👯 And Many More...
 
 
@@ -32,19 +32,17 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE.  I
 🤔
 
 -->
-<p align="center">
-  <a href="https://twitter.com/sbis04"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/twitter_ic.png" alt="Twitter" /></a>
-  <a href="https://www.linkedin.com/in/sbis04"><img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/linkedin_ic.png" alt="LinkedIn" /></a>
-  <a href="https://www.youtube.com/channel/UCd1b8wa9b22phD5NuH-VPaA"><img width="50" hspace="20" src="https://github.com/sbis04/sbis04/raw/master/images/youtube_ic.png" alt="YouTube" /></a>   
-  <a href="https://wa.me/918240931854"><img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" /></a>
-</p>
 
 
 
 
 
-Here are some ideas to get you started:
 
+<!--
+Here are some ideas to get you started:-->
+
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
