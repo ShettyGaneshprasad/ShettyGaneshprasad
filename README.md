@@ -5,7 +5,7 @@
 
 ---
 ## Hi there 👋,           
-I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer/ Flutter developer / tech enthusiast.  
+I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer, Flutter developer and a tech enthusiast.  
 
 ## 🧐 About
 - 🏄‍ Community guy who loves being involved in communities and help students grow
