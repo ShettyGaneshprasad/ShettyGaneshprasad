@@ -10,16 +10,16 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 🔭 I’m currently working on diffrent client's Flutter project.
 - 🌱 I’m currently doing internship @Transil & @Marksense.
-- 💬 Ask me about Web & Flutter Development.
+- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
+- 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
 - 👯 And Many More...
 
 
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 💬 Ask me about anything and everything! 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
-- ⚡ Fun fact: I love meeting new people and eating food! 
-- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
+
+
+
+
 ---
 <!--
 **ganeshshetty98/ganeshshetty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
