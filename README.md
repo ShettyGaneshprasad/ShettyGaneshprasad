@@ -7,14 +7,9 @@
   <a href="https://wa.me/918240931854"><img width="50" src="https://github.com/sbis04/sbis04/raw/master/images/whatsapp_ic.png" alt="WhatsApp" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sbis04?tab=repositories"><img src="https://github.com/sbis04/sbis04/raw/master/images/bottom_bar.png" alt="Role" /></a>
-</p>
 
-<!-- Hi there! -->
 
-<!--
-**sbis04/sbis04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
