@@ -7,11 +7,11 @@
 I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer, Flutter developer and a tech enthusiast.  
 
 ## About me 🧐 
-- 🏄‍ Community guy who loves being involved in communities and help students grow
-- 🔭 I’m currently working on diffrent client's Flutter project.
+- 🏄‍ Community guy who loves being involved in communities and help students grow.
 - 🌱 I’m currently doing internship @Transil & @Marksense.
-- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
+- 🔭 I’m currently working on different client's Flutter project.
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
+- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
 - 👯 And Many More...
 
 
