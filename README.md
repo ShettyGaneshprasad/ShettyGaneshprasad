@@ -11,12 +11,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE.  I
 - 🏄‍ Community guy who loves being involved in communities and help students grow
 - 🔭 I’m currently working on diffrent client's Flutter project.
 - 🌱 I’m currently learning Flutter.
-<!-- 👯 I’m looking to collaborate on ...-->
-<!-- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Web & Flutter Development 
-<!-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
 - 👯 And Many More...
 
 
