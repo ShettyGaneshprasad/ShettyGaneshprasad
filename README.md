@@ -10,6 +10,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 <img align="right" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,    
 
 ## About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
 - 🏄‍ Community guy who loves being involved in communities and help students grow.
 - 🌱 I’m currently doing internship @Transil & @Marksense.
 - 🔭 I’m currently working on different client's Flutter project.
