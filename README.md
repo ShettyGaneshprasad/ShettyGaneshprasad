@@ -1,4 +1,4 @@
-
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 # Shetty Ganeshprasad 👨‍💻
 [![Linkedin Badge](https://img.shields.io/badge/-shettyganeshprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shettyganeshprasad/)](https://www.linkedin.com/in/shettyganeshprasad/) [![Gmail Badge](https://img.shields.io/badge/-shettyganeshprasad1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shettyganeshprasad1998@gmail.com)](mailto:shettyganeshprasad1998@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@_G4neshshetty_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_G4neshshetty_)](https://twitter.com/_G4neshshetty_)
 
@@ -15,7 +15,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 👯 And Many More...
 
 <img src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 
 
 
