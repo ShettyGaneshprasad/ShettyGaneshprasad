@@ -12,8 +12,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 🔭 I’m currently working on different client's Flutter project.
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
 - 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
-- 👯
--<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">And Many More...
+- 👯 And Many More...
 
 
 
