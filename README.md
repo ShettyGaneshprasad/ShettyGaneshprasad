@@ -6,7 +6,7 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">,           
 I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer, Flutter developer and a tech enthusiast.  
 
-## About me 🧐 
+## About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 - 🏄‍ Community guy who loves being involved in communities and help students grow.
 - 🌱 I’m currently doing internship @Transil & @Marksense.
 - 🔭 I’m currently working on different client's Flutter project.
