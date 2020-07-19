@@ -9,6 +9,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 
 
 
+
 ## About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 - 🏄‍ Community guy who loves being involved in communities and help students grow.
@@ -17,13 +18,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
 - 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
 - 👯 And Many More...
-
-<img src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-
-<img alt="Aajinkya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right">
-
-
-
+<img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="center">
 
 
 
@@ -32,6 +27,13 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 **ganeshshetty98/ganeshshetty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔
+
+
+
+
+
+
+
 
 -->
 
