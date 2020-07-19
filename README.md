@@ -1,5 +1,6 @@
 
-# Shetty Ganeshprasad 👨‍💻
+# Shetty Ganeshprasad 👨‍💻<img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-shettyganeshprasad-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shettyganeshprasad/)](https://www.linkedin.com/in/shettyganeshprasad/) [![Gmail Badge](https://img.shields.io/badge/-shettyganeshprasad1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shettyganeshprasad1998@gmail.com)](mailto:shettyganeshprasad1998@gmail.com) 
 
