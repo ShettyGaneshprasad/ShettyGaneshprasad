@@ -6,7 +6,7 @@
 
 ---
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ganeshShetty98&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShettyGaneshprasad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
 
 I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer, Flutter developer and a tech enthusiast.  
 
@@ -27,7 +27,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 
 ---
 <!--
-**ganeshshetty98/ganeshshetty98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShettyGaneshprasad/ShettyGaneshprasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🤔
 
