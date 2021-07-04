@@ -23,7 +23,7 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 - 👯 And Many More...
 
 
-
+ <img src='https://github-readme-streak-stats.herokuapp.com/?user=ShettyGaneshprasad' alt='Github stats' align='center' />
 
 ---
 <!--
