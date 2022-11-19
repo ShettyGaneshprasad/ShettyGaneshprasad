@@ -8,7 +8,7 @@
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShettyGaneshprasad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
 
-I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I am a Web Developer, Flutter developer and a tech enthusiast.  
+I'm Shetty Ganeshprasad, Software Engineer 👨‍💻at MAQ Software, Mumbai. Studied Computer Science & Engineering at 🧑‍🎓 SDMCET, Dharwad. I am a Web Developer, Flutter developer, tech enthusiast and a Data Engineer currently developing cloud based big data engine which compute terabytes of data daily.😎
 
 
 
@@ -16,10 +16,10 @@ I'm Shetty Ganeshprasad, Student at 👨‍💻 SDMCET, Dharwad Pursuing CSE. I 
 ## About me <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
 
 - 🏄‍ Community guy who loves being involved in communities and help students grow.
-- 🌱 I’m currently doing internship @Transil & @Marksense.
-- 🔭 I’m currently working on different client's Flutter project.
+- 🌱 Completed my Internship on Web development and Flutter app development at @Transil & @Marksense.
+- 🔭 I’m currently working with MAQ Software.
 - 📫 How to reach me: message me at [Whatsapp](https://wa.me/917900129925)
-- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing and anything you like
+- 💬 Ping Me about #flutter, #webdevelopment, #DigitalMarketing, #DataEngineering, #Azure, #Synapse, #Spark, #BigData and anything you like
 - 👯 And Many More...
 
 
