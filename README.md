@@ -10,6 +10,9 @@
 
 I'm Shetty Ganeshprasad, Software Engineer 👨‍💻at MAQ Software, Mumbai. Studied Computer Science & Engineering at 🧑‍🎓 SDMCET, Dharwad. I am a Web Developer, Flutter developer, tech enthusiast and a Data Engineer currently developing cloud based big data engine which compute terabytes of data daily.😎
 
+Visit my portfolio site: 💁
+https://shettyganeshprasad.netlify.app/
+
 
 
 
