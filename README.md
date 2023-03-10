@@ -6,7 +6,7 @@
 
 ---
 
-## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShettyGaneshprasad&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
+## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"><img alt="Shetty Ganeshprasad's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ShettyGaneshprasad&PAT_1=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)&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" align="right"> <br>
 
 I'm Shetty Ganeshprasad, Software Engineer 👨‍💻at MAQ Software, Mumbai. Studied Computer Science & Engineering at 🧑‍🎓 SDMCET, Dharwad. I am a Web Developer, Flutter developer, tech enthusiast and a Data Engineer currently developing cloud based big data engine which compute terabytes of data daily.😎
 
